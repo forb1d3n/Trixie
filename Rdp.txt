@@ -1,0 +1,31 @@
+
+Google Cloud RDP Trick 300$ credit 
+
+•Works also on freshly made emails.
+•No Additional charge
+•No future charge method
+
+
+Requirement:
+- Paytm Account
+- Gmail
+- 1 Rupee
+
+
+ Paytm:
+1.  Go to Paytm
+2. Click on Bank
+3. There you will see (Apply Visa Virtual Card)
+4. Apply for it. Or if you already have. 
+5. Enable International Transactions 
+
+ Steps for Google RDP:
+1. Go to : https://cloud.google.com/free/
+2. Click Get Started for Free
+3. Proceed with activation
+4. Click on Activate 300$ trial
+5. Enter paytm card details & random indian address 
+6. Verify with otp
+7. Now go to billing section & click upgrade
+(Upgrade is necessary to use google cloud without any limit & For RDP)
+8. Create your RDP.
